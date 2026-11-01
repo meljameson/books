@@ -10,8 +10,6 @@ Charts and stats from my Goodreads reading history.
 | Books on the shelf | 153 |
 | Finished | 142 |
 | Did not finish | 10 (7%) |
-| Pages read | 40,815 |
-| Average book length | 289 pages |
 | My average rating | 3.61★ (Goodreads: 4.00★) |
 | Favorites | 22 |
 | Hottest take | *Product Management in Practice*: I gave it 2★, Goodreads says 4.34★. I prefer Project Management for the Unofficial Project Manager's approach |
