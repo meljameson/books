@@ -1,6 +1,6 @@
 # Bookshelf analysis
 
-Charts and stats from my Goodreads reading history, mostly business, tech and career books.
+Charts and stats from my Goodreads reading history.
 
 ## At a glance
 
