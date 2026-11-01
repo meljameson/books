@@ -14,10 +14,7 @@ Charts and stats from my Goodreads reading history.
 | Average book length | 289 pages |
 | My average rating | 3.61★ (Goodreads: 4.00★) |
 | Favorites | 22 |
-| Most-read author | Daniel H. Pink (4 books) |
-| Longest finished book | *Palo Alto*, 720 pages |
-| Oldest book | *Walden or, Life in the Woods* (1854) |
-| Hottest take | *Product Management in Practice*: I gave it 2★, Goodreads says 4.34★ |
+| Hottest take | *Product Management in Practice*: I gave it 2★, Goodreads says 4.34★. I prefer Project Management for the Unofficial Project Manager's approach |
 <!-- stats:end -->
 
 ## Charts
