@@ -1,0 +1,12 @@
+[project]
+name = "books"
+version = "0.1.0"
+description = "Charts and stats from my Goodreads reading history"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.9",
+    "pandas>=2.2",
+]
+
+[tool.uv]
+package = false

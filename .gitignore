@@ -1,0 +1,7 @@
+# Raw Goodreads export: contains reviews and personal titles. Only the
+# cleaned data/books.csv is meant to be shared.
+books - Sheet*.csv
+data/raw/
+
+.venv/
+__pycache__/
